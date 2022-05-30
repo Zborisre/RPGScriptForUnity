@@ -1,2 +1,2 @@
-# RPGScriptForUnity
+# RPG Script For Unity
 Скрипты для движения, взаимодействия, системы экипировки и удара, создано на Unity
